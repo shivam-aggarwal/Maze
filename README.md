@@ -38,3 +38,6 @@
   
 ### *Note - We Have Also Attached A Sample Outputs File For Reference.*
 
+### References
+- We have used recursive Maze Generation Algoithm to generate Maze.(https://en.wikipedia.org/wiki/Maze_generation_algorithm)
+- We have used Dijkstra's algorithm to find path.(https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
