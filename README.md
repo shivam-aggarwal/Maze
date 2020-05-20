@@ -1,3 +1,14 @@
+# Project -> Problem Solving Using C and C++
+## Team Details
+- Sahil Gupta
+  - Roll No.-> 9917103163
+  - Batch -> F-5
+- Harshita
+  - Roll No.-> 9917103168
+  - Batch -> F-5
+- Shivam Aggarwal
+  - Roll No.-> 9917103169
+  - Batch -> F-5
 # **Maze Game**
 ## *A C++ Based Project Using Dijkstra's Algorithm To Find Shortest Paths Between Coordinates Of The Maze*
 
