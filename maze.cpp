@@ -361,6 +361,9 @@ public:
         board->recusriveDivision();
         board->print();
     }
+    ~ Play(){
+        delete board;
+    }
     void play()
     {
         bool flag = true;
