@@ -361,7 +361,7 @@ public:
         board->recusriveDivision();
         board->print();
     }
-    ~ Play(){
+    ~Play(){
         delete board;
     }
     void play()
