@@ -11,7 +11,7 @@
 #### **How To Run The Program :**
 - You should have a working C++ Compiler.
 - After Saving The Folder On Your System, Go To The Directory You Saved It Via CMD Or Terminal.
-- Write -> **-"g++ .\Maze.cpp"-** And Hit Enter.
+- Write -> **-"g++ .\maze.cpp"-** And Hit Enter.
 - After That Run The Executable File By Writing -> **-".\a.exe"-** On The Same Terminal
 - Your Program Is Now Running Successfully, Go Interact It With As You Want.
 
