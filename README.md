@@ -1,3 +1,14 @@
+# Project -> Problem Solving Using C and C++
+## Team Details
+- Sahil Gupta
+  - Roll No.-> 9917103163
+  - Batch -> F-5
+- Harshita
+  - Roll No.-> 9917103168
+  - Batch -> F-5
+- Shivam Aggarwal
+  - Roll No.-> 9917103169
+  - Batch -> F-5
 # **Maze Game**
 ## *A C++ Based Project Using Dijkstra's Algorithm To Find Shortest Paths Between Coordinates Of The Maze*
 
@@ -11,7 +22,7 @@
 #### **How To Run The Program :**
 - You should have a working C++ Compiler.
 - After Saving The Folder On Your System, Go To The Directory You Saved It Via CMD Or Terminal.
-- Write -> **-"g++ .\Maze.cpp"-** And Hit Enter.
+- Write -> **-"g++ .\maze.cpp"-** And Hit Enter.
 - After That Run The Executable File By Writing -> **-".\a.exe"-** On The Same Terminal
 - Your Program Is Now Running Successfully, Go Interact It With As You Want.
 
